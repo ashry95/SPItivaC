@@ -1,0 +1,1 @@
+"./tm4c123gh6pm_startup_ccs.obj" "./appl/lab_00_spi.obj" "./config/port_lcfg.obj" "./config/spi_lcfg.obj" "./hal/accelerometer/accelerometer.obj" "./mcal/dio/dio.obj" "./mcal/nvic/nvic.obj" "./mcal/port_driver/port.obj" "./mcal/spi/spi.obj" "./mcal/sys_ctr/SysCtr.obj" "../tm4c123gh6pm.cmd" -llibc.a 
